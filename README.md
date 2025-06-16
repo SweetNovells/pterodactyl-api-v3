@@ -62,6 +62,7 @@ from pterodactyl_api_v3 import PterodactylClient
 Если у вас возникли вопросы или вы нашли баг, создайте issue в репозитории или напишите мне напрямую.  
 GitHub: [Sweet Novells](https://github.com/SweetNovells)  
 Email: SweetNovells@yandex.ru
+
 ---
 
 ## 📜 Лицензия
@@ -77,4 +78,3 @@ Email: SweetNovells@yandex.ru
 ---
 
 *Created with ❤️ by Sweet Novells*
-```
